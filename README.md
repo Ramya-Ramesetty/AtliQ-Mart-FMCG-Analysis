@@ -11,31 +11,31 @@ Executed SQL queries to address five key business requirements.
 Findings aim to guide future promotional planning and resource distribution.
 
 # Insighs and Recommendations
-#   Store Insights
-Prioritize High-Incremental Revenue Store Categories:
+<h2>Store Insights</h2>
+<h4>Prioritize High-Incremental Revenue Store Categories:</h4>
            Focus on store categories generating the highest additional revenue, including Combo1, Grocery, Staples, and Home Appliances.
-Target Key Locations:
+<h4>Target Key Locations:</h4>
            Direct efforts towards cities with the highest percentage of incremental revenue, such as Madurai, Chennai, and Bengaluru.
 
-# Promotion Strategy Insights
+<h2>Promotion Strategy Insights</h2>
 
- Utilize Effective Promotion Strategies:
+<h4>Utilize Effective Promotion Strategies:</h4> 
           Take advantage of successful promotions like ₹500 cashback and Buy One Get One Free (BOGOF) due to their positive influence on sales growth and incremental revenue.
-Avoid Less Impactful Discounts:
+<h4>Avoid Less Impactful Discounts:</h4>
           Refrain from using discount-based promotions, particularly 25% OFF and 33% OFF, as they have shown minimal effectiveness in boosting revenue.
 
-Enhance Seasonal Campaigns:
+<h4>Enhance Seasonal Campaigns:</h4>
           Strengthen promotional strategies to maximize revenue during Diwali, as it has greater potential compared to Sankranti.
 
-# Product and Category Performance Analysis
+<h2>Product and Category Performance Analysis</h2>
 
-Boost Revenue from Top-Performing Categories:
+<h4>Boost Revenue from Top-Performing Categories:</h4>
     Invest resources in categories demonstrating the highest growth in incremental revenue, such as Home Appliances and Home Care.
 
-Highlight High-Revenue Products:
+<h4>Highlight High-Revenue Products:</h4>
      Focus on promoting products such as Atliq Waterproof Immersion Rod, Atliq LED Bulb, and Atliq Double Bedsheet Set, as they contribute significantly to overall revenue.
 
-[Dashboard Link]()
+ # [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiODllZmNjZGUtODgyZi00YzNkLWFiZDYtN2EwZjEwMDE1MDk3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Challenges
 A key limitation faced during the analysis pertains to handling promotions under the **'BOGOF' (Buy One Get One Free)** category. The dataset does not effectively capture the quantity of free items given as part of the promotion. This gap may result in inconsistencies or misinterpretations, especially when assessing the impact of 'BOGOF' promotions and drawing comparisons with other promotional strategies.
